@@ -5,7 +5,7 @@ In this tutorial, we teach you how to add a search icon button to your website n
 
 ## Tutorial
 
-For detailed instructions, view Solodev's [Creating a Dropdown Website Search Menu](https://www.solodev.com/blog/web-design/creating-a-dropdown-website-search-menu.stml) article.
+For detailed instructions, view Solodev's [Creating a Toggled Search Bar](https://www.solodev.com/blog/web-design/creating-a-toggled-search-bar.stml) article.
 
 ## Demo
 
@@ -28,8 +28,11 @@ The search bar dropdown contains the following basic HTML markup.
          <a class="navbar-brand" href="#">Project name</a>
       </div>
       <div id="navbar" class="navbar-collapse collapse">
-         <div class="navbar-form navbar-right">
+         <div class="hidden-xs navbar-form navbar-right">
             <a onclick="documentTrack('#search');" href="#search" class="search-form-tigger btn btn-success"  data-toggle="search-form"><i class="fa fa-search" aria-hidden="true"></i></a>
+         </div>
+		 <div class="visible-xs navbar-form navbar-right">
+            <input type="text" name="search" class="search form-control" placeholder="Search">
          </div>
          <!--/.navbar-collapse -->
       </div>
