@@ -1,7 +1,7 @@
 # toggled-search-bar
 Giving your website visitors the ability to quickly search your entire website provides a better user experience and allows website visitors to find the right content without having to go through your entire website manually searching for the content they are looking for. However, adding a search bar to every page of your website can pose design problems, search bars can take up a lot of room and interfere with the navigation or design of your website.
 
-In this tutorial, we teach you how to add a search icon button to your website navigation that populates a search bar when clicked. This allows you to provide the ability to search your website without interfering in the design and user experience of your website. In this article, [Solodev](https://www.solodev.com/) teaches you how to add a clickable search icon to your website navigation that populates a search form onClick.
+In this tutorial, we teach you how to add a search icon button to your website navigation that populates a search bar when clicked. This allows you to provide the ability to search your website without interfering in the design and user experience of your website. In this article, [Solodev](https://www.solodev.com/) teaches you how to add a clickable search icon to your website navigation that populates a search form when clicked.
 
 ## Tutorial
 
