@@ -90,7 +90,7 @@ All necessary CSS is included in the file popup-search-bar.css
 
 ## JavaScript
 
-The search bar popup uses the following basic JavaScript.
+The toggled search bar uses the following basic JavaScript.
 
 ```
 $( document ).ready(function() {
